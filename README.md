@@ -15,7 +15,7 @@ The goal of this project is to apply the concepts learned in Sprint 1: Databases
 
 ## Technologies 
 
+- **Draw.io**: To create the project diagrams
 - **SQL**: For database management and query execution.
 - **Database Management Systems**: To create and manage the database structure and relationships.
-- **Draw.io**: To create the project diagrams
   
