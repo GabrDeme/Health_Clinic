@@ -1,2 +1,21 @@
-# Health_Clinic
-O seguinte projeto proposto pelos professores Carlos Roque e Eduardo Costa aos alunos de Desenvolvimento de Sistemas no Senai de Informática baseia-se no desenvolvimento de um Banco de Dados para uma rede de clínicas nomeada fictíciamente de Health Clinic, o projeto tem como objetivo trabalhar os conceitos aprendidos na Sprint 1: Banco de Dados.
+# Health Clinic Database Project
+
+## Overview
+
+This project is designed for the **Health Clinic**, a fictional network of clinics. The main focus is on developing a robust database to manage patient records, appointments, and clinic information.
+
+### Objective
+
+The goal of this project is to apply the concepts learned in Sprint 1: Databases, ensuring efficient data storage and retrieval to support the clinic's operations.
+
+### Diagrams
+
+- **Entity-Relationship Diagram (ERD)**: Visual representation of the database structure, showing entities, attributes, and relationships.
+- **Database Schema Diagram**: Detailed layout of the tables, their fields, and relationships within the database.
+
+## Technologies 
+
+- **SQL**: For database management and query execution.
+- **Database Management Systems**: To create and manage the database structure and relationships.
+- **Draw.io**: To create the project diagrams
+  
