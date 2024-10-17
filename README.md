@@ -13,6 +13,8 @@ The goal of this project is to apply the concepts learned in Sprint 1: Databases
 - **Entity-Relationship Diagram (ERD)**: Visual representation of the database structure, showing entities, attributes, and relationships.
 - **Database Schema Diagram**: Detailed layout of the tables, their fields, and relationships within the database.
 
+---
+
 ## Technologies 
 
 - **Draw.io**: To create the project diagrams
