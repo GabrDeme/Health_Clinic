@@ -1,4 +1,4 @@
-# Health Clinic Database Project
+# Health Clinic Database
 
 ## Overview
 
